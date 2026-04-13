@@ -2,8 +2,6 @@ Hi, I’m Krish a Data Analyst passionate about turning data into actionable ins
 
 This repository contains my end-to-end data analytics project using Excel. Each project focuses on real-world business problems, data cleaning, analysis, visualization, and clear communication of insights.
 
-
-
 ---
 
 ## 📊 Amazon Sales Data Analysis – Excel Dashboard Project
