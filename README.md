@@ -11,7 +11,6 @@ This project focuses on analyzing Amazon sales data using **Microsoft Excel** to
 The dataset was cleaned and structured to ensure accurate analysis. Using **Pivot Tables, Pivot Charts, and advanced Excel formulas**, an interactive dashboard was designed to present key performance indicators (KPIs) in a clear and business-friendly format. The dashboard enables quick decision-making by summarizing complex data into easy-to-understand visuals.
 
 ### 🎯 Key Objectives
-
 * Compare **Actual vs Target Sales**
 * Analyze **Units Sold performance**
 * Track **number of cities covered**
@@ -20,7 +19,6 @@ The dataset was cleaned and structured to ensure accurate analysis. Using **Pivo
 * Measure **percentage achieved and sales gap**
 
 ### 📌 Key KPIs Tracked
-
 * Total Sales Amount
 * Units Sold
 * % Target Achieved
@@ -28,7 +26,6 @@ The dataset was cleaned and structured to ensure accurate analysis. Using **Pivo
 * Market Coverage (# of Cities)
 
 ### 📈 Dashboard Highlights
-
 * KPI cards for quick performance overview
 * Product-wise units sold ranking
 * State-wise and city-wise sales comparison
@@ -36,7 +33,6 @@ The dataset was cleaned and structured to ensure accurate analysis. Using **Pivo
 * Business-oriented insights and storytelling
 
 ### 🛠 Tools & Skills Used
-
 * Microsoft Excel
 * Data Cleaning & Preparation
 * Pivot Tables & Pivot Charts
@@ -47,7 +43,6 @@ The dataset was cleaned and structured to ensure accurate analysis. Using **Pivo
 
 The analysis highlights high-performing products and regions while identifying areas where sales targets were not met. This helps stakeholders focus on improvement opportunities and optimize sales strategies.
 <img width="862" height="672" alt="image" src="https://github.com/user-attachments/assets/3fd81969-fbb9-4a69-b226-f2cddbe41c9a" />
-
 
 ### 🚀 Future Enhancements
 
